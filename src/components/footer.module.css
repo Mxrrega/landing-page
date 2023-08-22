@@ -1,0 +1,27 @@
+footer {
+    width: 100%;
+    background-color: black;
+    height: 400px;
+    color: white;
+    display: inline-flex;
+}
+.divEncontre {
+    width: 25%;
+    display: grid;
+    margin-left: 50px;
+}
+.divAjuda {
+    width: 25%;
+    display: grid;
+}
+.divSobre {
+    width: 25%;
+    display: grid;
+}
+.divcartfor {
+    width: 25%;
+}
+.divcartfor img {
+    margin-left: 0;
+    width: 200px;
+}

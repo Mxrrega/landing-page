@@ -7,6 +7,8 @@ header {
     display: inline-flex;
     justify-content: space-between;
     text-decoration: none;  
+    position: fixed;
+    margin-top: -200px;
   }
 header a {
     text-decoration: none;

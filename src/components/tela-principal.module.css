@@ -1,15 +1,17 @@
 main {
+    height: 100%;
     width: 50%;
     justify-content: center;
     margin-left: 150px;
     margin-top: 200px;
+    
 }
-h1 {
+.divv h1 {
     color: white;
     font-size: 100px;
     margin: 0;
 }
-span {
+.divv span {
     color: white;
 }
 .div {
@@ -17,4 +19,7 @@ span {
 }
 .div button {
     margin-left: 20px;
+}
+.espaco {
+    height: 1000px;
 }
